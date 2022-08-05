@@ -1,0 +1,38 @@
+
+body{
+   font-family:'Montserrat',Helvetica,Arial,Lucida,sans-serif;
+   background-color:#282781;
+   margin: 0;
+   font-family: Arial;
+   font-size: 17px;
+}
+img {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+* {
+  box-sizing: border-box;
+}
+#myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%; 
+  min-height: 100%;
+}
+
+.content {
+  position: fixed;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+  color: #f1f1f1;
+  width: 100%;
+  padding: 20px;
+}
+h1{
+   text-align: center;
+}
+p{
+   text-align: center;
+}
